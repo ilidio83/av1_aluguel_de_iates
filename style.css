@@ -5,6 +5,11 @@
     outline: none;
     box-sizing: border-box;
 }
+.tamanho{
+    width: 980px;
+    margin: 0 auto;
+    background: #e0e0e0;
+}
 header{
     background-color: #21272B;
     color: #fff;
@@ -34,7 +39,7 @@ header{
 main{
     background-image: url("C:\Users\ilidio\projeto\barcoprincipal.jpg");
     background-size: contain;
-    background-position-x: left;
+
 }
 /*mensagem dentro da box*/
 .hero {
